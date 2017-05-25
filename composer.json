@@ -1,0 +1,15 @@
+{
+    "name": "greedying/meitu",
+    "description": "美图面试题，过后删除",
+    "keywords": [
+        "meitu",
+        "php"
+    ],
+    "require": {
+        "php":">=5.5.0"
+	},
+	"repositories": [
+		{"type": "composer", "url": "https://packagist.phpcomposer.com"},
+		{"packagist": false}
+	]
+}
